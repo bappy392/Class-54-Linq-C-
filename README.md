@@ -1,1 +1,1 @@
-This is for LINQ as C# tecnology updates commit.
+This is for LINQ as C# tecnology updates commit branch for help.
